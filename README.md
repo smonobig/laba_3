@@ -79,7 +79,7 @@ MoviePy - это библиотека на языке программирова
 ## Colab
 | Colab                                                                                                                                                                          | Info               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-|https://colab.research.google.com/drive/1YvaQvXzcuuP8FHhe0mLMrIUzjSDqROLx?authuser=0#scrollTo=INHUhPCsewUc|
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/smonobig/labs/blob/main/lab3.ipynb) |lab3|
 
 
 
